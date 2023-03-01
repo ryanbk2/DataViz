@@ -1,2 +1,1 @@
-"# DataViz" 
-"# DataViz" 
+"Data Visualization for IS 445"
